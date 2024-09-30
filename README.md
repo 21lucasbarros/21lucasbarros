@@ -1,6 +1,6 @@
 <div>
   <h1>Olá, sou Lucas Barros</h1>
-  <p>Sou estudante de Sistemas de Informação, pronomes: Ele/Dele, nascido em Santos, São Paulo. Sou apaixonado por arte, programação, cinema, basquete, futebol e design, com foco em moda e estética. Me inspiro em Steve Jobs, Michael Jordan, Jerry Lorenzo, John Frusciante e Jean-Michel Basquiat. No meu tempo livre, faço cursos, assisto a filmes e séries e analiso obras cinematográficas. Estou sempre em busca de novos desafios e oportunidades para crescer.</p>
+  <p>Sou estudante de Sistemas de Informação, nascido em Santos, São Paulo. Sou apaixonado por arte, programação, cinema, basquete, futebol e design, com foco em moda e estética. Me inspiro em Steve Jobs, Michael Jordan, Jerry Lorenzo, John Frusciante e Jean-Michel Basquiat. No meu tempo livre, faço cursos, assisto a filmes e séries e analiso obras cinematográficas. Estou sempre em busca de novos desafios e oportunidades para crescer.</p>
 </div>
 
 <h2>Minhas Estatísticas</h2>
