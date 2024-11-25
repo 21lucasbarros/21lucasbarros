@@ -1,6 +1,6 @@
 <div>
-  <h1>Hello, I am Lucas Barros Simon</h1>
-  <p>I am an Information Systems student, born in Santos, São Paulo. I am passionate about art, programming, cinema, basketball, soccer, and design, with a focus on fashion and aesthetics. I draw inspiration from Steve Jobs, Michael Jordan, Jerry Lorenzo, John Frusciante, and Jean-Michel Basquiat. In my free time, I take courses, watch movies and series, and analyze cinematographic works. I am always looking for new challenges and growth opportunities.</p>
+<h1>Hello, I am Lucas Barros Simon</h1>
+<p>I am an Information Systems student, born in Santos, São Paulo. I am passionate about art, programming, cinema, basketball, soccer, and design, with a focus on fashion and aesthetics. I draw inspiration from Steve Jobs, Michael Jordan, Jerry Lorenzo, John Frusciante, and Jean-Michel Basquiat. In my free time, I take courses, watch movies and series, and analyze cinematographic works. I am always looking for new challenges and growth opportunities.</p>
 </div>
 
 <h2>My Statistics</h2>
@@ -15,6 +15,7 @@
   <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5"/>
   <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3"/>
   <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
+  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp"/>
 </div>
 
 <h2>My Social Networks</h2>
