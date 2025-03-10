@@ -1,12 +1,12 @@
 <div>
-<h1>Hello, I am Lucas Barros Simon</h1>
-<p>I am an Information Systems student, born in Santos, São Paulo. I am passionate about art, programming, cinema, basketball, soccer, and design, with a focus on fashion and aesthetics. I draw inspiration from Steve Jobs, Michael Jordan, Jerry Lorenzo, John Frusciante, and Jean-Michel Basquiat. In my free time, I take courses, watch movies and series, and analyze cinematographic works. I am always looking for new challenges and growth opportunities.</p>
+<h1>🎯 Hi, I'm Lucas Barros Simon!</h1>
+<p>I am an Information Systems student passionate about technology, programming, and design. I have experience in web development, software engineering, and data analysis, and I’m always looking for new challenges to improve my skills. My inspiration comes from great minds like Steve Jobs, Michael Jordan, John Frusciante, and Jean-Michel Basquiat. In my free time, I take courses, watch movies and series, and explore the intersection of art, fashion, and technology.</p>
 </div>
 
 <h2>My Statistics</h2>
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasweacked&theme=dark&include_all_commits=true&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasweacked&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasweacked&theme=dark&include_all_commits=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasweacked&theme=dark&layout=compact"/>
 </div>
 
 <h2>Technologies I Use</h2>
@@ -22,23 +22,11 @@
 
 <h2>My Social Networks</h2>
 <p>Connect with me on social media:</p>
-<div>
-  <a href="https://instagram.com/21lucasbarros" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/lucasbarrossimon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.twitch.tv/21lucasbarros" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-232323?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="mailto:lucasweacked21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-232323?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://lucasbarrosdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-232323?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/21lucasbarros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarrossimon/)
+[![Gmail](https://img.shields.io/badge/Gmail-232323?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasbarros@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-232323?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasbarrosdev.vercel.app/)
 
 ---
 
