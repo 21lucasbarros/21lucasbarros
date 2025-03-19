@@ -7,8 +7,8 @@
 
 <h2>My Statistics</h2>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasweacked&theme=dark&include_all_commits=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasweacked&theme=dark&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21lucasbarros&theme=dark&include_all_commits=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21lucasbarros&theme=dark&layout=compact"/>
 </div>
 
 <h2>My Stack</h2>
