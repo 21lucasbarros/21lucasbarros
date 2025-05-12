@@ -1,6 +1,6 @@
 <div>
 <h1>🎯 Hi, I'm Lucas Barros Simon!</h1>
-<p>💻 Information Systems Student | 🌐 Front-End Developer | 📊 Data Enthusiast</p>
+<p>💻 Information Systems Student | 🌐 Full-Stack Developer | 📊 Data Enthusiast</p>
 </div>
 
 <p>I am an Information Systems student passionate about technology, programming, and design. I have experience in web development, software engineering, and data analysis, and I’m always looking for new challenges to improve my skills. My inspiration comes from great minds like Steve Jobs, Michael Jordan, John Frusciante, and Jean-Michel Basquiat. In my free time, I take courses, watch movies and series, and explore the intersection of art, fashion, and technology.</p>
