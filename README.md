@@ -13,18 +13,26 @@
 
 <h2>My Stack</h2>
 <p>Here are some of the technologies I use in my projects:</p>
-<div>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="React Router"/>
-  <img width="50px" align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
+
+<div align="center">
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=remix" alt="React Router"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=sass" alt="Sass"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=express" alt="Express"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=cs" alt="CSharp"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=dotnet" alt=".NET"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=java" alt="Java"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
 </div>
 
 <h2>My Social Networks</h2>
