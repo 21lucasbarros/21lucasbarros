@@ -14,7 +14,7 @@
 <h2>My Stack</h2>
 <p>Here are some of the technologies I use in my projects:</p>
 
-<div align="center">
+<div>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
