@@ -25,6 +25,7 @@
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=sass" alt="Sass"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=express" alt="Express"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
