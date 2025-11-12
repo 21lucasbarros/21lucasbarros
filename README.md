@@ -21,7 +21,7 @@
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=react" alt="React"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=remix" alt="React Router"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=remix" alt="Remix"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=sass" alt="Sass"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
@@ -34,6 +34,9 @@
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=java" alt="Java"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=bun" alt="Bun"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=elysia" alt="Elysia"/>
 </div>
 
 <h2>My Social Networks</h2>
