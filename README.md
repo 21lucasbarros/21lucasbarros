@@ -38,6 +38,7 @@
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=bun" alt="Bun"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=elysia" alt="Elysia"/>
   <img width="50px" align="center" src="https://skillicons.dev/icons?i=tauri" alt="Tauri"/>
+  <img width="50px" align="center" src="https://skillicons.dev/icons?i=svelte" alt="Svelte"/>
 </div>
 
 <h2>My Social Networks</h2>
