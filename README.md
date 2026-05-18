@@ -1,54 +1,33 @@
 <div align="center">
-<h1>🎯 Hi, I'm Lucas Barros Simon!</h1>
-<p>💻 Information Systems Student | 🌐 Full-Stack Developer | 📊 Data Enthusiast</p>
+  <h1>🎯 Hi, I'm Lucas Barros Simon</h1>
+  <p>💻 Software Engineer | 🌐 Full-Stack Developer | ⚡ UI/UX & Architecture</p>
 </div>
 
-<p>I am an Information Systems student focused on modern web development and software engineering. I design and build clean, scalable applications, combining technical precision with a strong aesthetic vision. Inspired by leaders like Steve Jobs and Michael Jordan, I approach my work with intention, discipline, and attention to detail. Outside of coding, I study, watch films, and explore the intersection of art, fashion, and technology, always looking for ideas that elevate both form and function.</p>
+<p>I am a Full-Stack Developer and Information Systems student with a deep appreciation for modern web architecture, clean code, and premium aesthetics. I build robust applications by combining technical rigor—leveraging Clean Architecture, SOLID principles, and scalable back-ends—with a meticulous eye for front-end design and user experience. Whether I'm designing a sleek interface, developing cross-platform desktop tools, or engineering a neural network from scratch, I approach software with intention, discipline, and a focus on delivering real value.</p>
 
-<h2>My Statistics</h2>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21lucasbarros&theme=dark&include_all_commits=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21lucasbarros&theme=dark&layout=compact"/>
-</div>
+<h2>🚀 Featured Work & Architecture</h2>
+<ul>
+  <li><strong>Validy:</strong> A high-performance desktop application for digital certificate management. Built with a <strong>Tauri, React, and TypeScript</strong> frontend, communicating with a robust <strong>Bun/Elysia and PostgreSQL</strong> backend following Clean Architecture principles.</li>
+  <li><strong>Graph Neural Network:</strong> An AI model built entirely from scratch in <strong>Java</strong> using Object-Oriented Programming and Graph Theory, featuring custom backpropagation, ReLU activation, and a GUI for visualization.</li>
+  <li><strong>Oficial Bricks:</strong> A full-stack e-commerce platform currently in production. Built with <strong>Next.js and TypeScript</strong>, handling everything from complex data modeling and secure payment integrations to a highly responsive, conversion-oriented UI.</li>
+</ul>
 
-<h2>My Stack</h2>
-<p>Here are some of the technologies I use in my projects:</p>
+<h2>⚙️ The Tech Stack</h2>
+<p>My toolkit is deliberately chosen for performance, scalability, and maintainability:</p>
+<ul>
+  <li><strong>Frontend & UI Design:</strong> TypeScript, React, Next.js, Tailwind CSS, Figma</li>
+  <li><strong>Backend & Architecture:</strong> Node.js, Bun, Elysia, Java, C# (.NET), PostgreSQL</li>
+  <li><strong>Desktop & Systems:</strong> Rust, Tauri, Git</li>
+</ul>
+<br>
 
-<div>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=react" alt="React"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=remix" alt="Remix"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=sass" alt="Sass"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=express" alt="Express"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=cs" alt="CSharp"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=dotnet" alt=".NET"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=bun" alt="Bun"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=elysia" alt="Elysia"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=tauri" alt="Tauri"/>
-  <img width="50px" align="center" src="https://skillicons.dev/icons?i=svelte" alt="Svelte"/>
-</div>
+<h2>🌱 Leadership & Community</h2>
+<p>Beyond code, I serve as a <strong>Coordinator and Instructor for Digital Inclusion</strong> at Parque Tecnológico de Santos, leading initiatives to help the elderly safely navigate the digital world, utilize essential services, and protect themselves against online fraud.</p>
 
-<h2>My Social Networks</h2>
-<p>Connect with me on social media:</p>
+<h2>🌐 Connect With Me</h2>
+<p>I am always open to discussing modern software architecture, tech aesthetics, or new collaborations. Let's connect!</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/21lucasbarros)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarrossimon/)
-[![Gmail](https://img.shields.io/badge/Gmail-232323?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasbarros@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-232323?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasbarrosdev.vercel.app/)
-
----
-
-<p>I am always open to new collaborations and opportunities. Let's connect!</p>
+[![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/21lucasbarros)
+[![Gmail](https://img.shields.io/badge/Gmail-232323?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasbarros@gmail.com)
