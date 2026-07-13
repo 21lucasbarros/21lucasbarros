@@ -23,37 +23,36 @@
 </td>
 <td valign="middle">
 
-```
+<pre>
 lucas@barros --------------------------------------------------------------
 . OS: ............................ macOS, Windows 11, Ubuntu (WSL2)
 . Age: ........................... 23 years
-. Host: .......................... UNISANTA - Santos, SP
+. Host: .......................... Universidade Santa Cecília
 . Education: ..................... Information Systems
 . Semester: ...................... 6th
 . IDE: ........................... Zed, VS Code, IntelliJ IDEA
 .
 . Languages.Programming: ......... Java, TypeScript, JS, C#
 . Languages.Computer: ............ HTML, CSS, JSON
-. Languages.Real: ................ Portuguese, English, Spanish
+. Languages.Real: ................ Portuguese, English
 .
 . Frameworks: .................... React, Next.js, Angular
 . Learning: ...................... Spring Boot, AI, Neural Networks, Graphs
-. Focus: ......................... Full-Stack (Front) -> Back-End Java
+. Focus: ......................... Full-Stack -> Back-End Java
 .
 . Hobbies: ....................... Cinema, art, gaming
 .
 - Contact -----------------------------------------------------------------
-. Email: ......................... devlucasbarros@gmail.com
-. GitHub: ........................ github.com/21lucasbarros
-. LinkedIn: ...................... linkedin.com/in/lucasbarrossimon
-. Portfolio: ..................... lucasbarrosdev.vercel.app
+. Email: ......................... <a href="mailto:devlucasbarros@gmail.com">devlucasbarros@gmail.com</a>
+. LinkedIn: ...................... <a href="https://linkedin.com/in/lucasbarrossimon">linkedin.com/in/lucasbarrossimon</a>
+. Portfolio: ..................... <a href="https://lucasbarrosdev.vercel.app">lucasbarrosdev.vercel.app</a>
 .
 - Status ------------------------------------------------------------------
 . Location: ...................... Santos, SP, Brazil
-. Role: .......................... Full-Stack Dev (Front-End)
+. Role: .......................... Full-Stack Dev
 . Projects: ...................... Validy, Oficial Bricks
-. Volunteer: ..................... Digital Inclusion Instructor
-```
+. Volunteer: ..................... 4x Digital Inclusion Instructor
+</pre>
 
 </td>
 </tr>
