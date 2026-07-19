@@ -25,7 +25,7 @@
 
 <pre>
 lucas@barros --------------------------------------------------------------
-. OS: ............................ macOS, Windows 11, Ubuntu (WSL2)
+. OS: ............................ macOS, Windows 11
 . Age: ........................... 23 years
 . Host: .......................... Universidade Santa Cecília
 . Education: ..................... Information Systems
